@@ -6,6 +6,7 @@
         <artifactId>firstcup</artifactId>
         <groupId>org.glassfish.javaeetutorial.firstcup</groupId>
         <version>7.0.5</version>
+	<relativePath>C:\Program Files\Java\java_ee_sdk-7u1\glassfish4\docs\firstcup\example\pom.xml</relativePath>
     </parent>
 
     <groupId>com.mycompany</groupId>
