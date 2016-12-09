@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
     
     <parent>
-        <artifactId>firstcup-war</artifactId>
-        <groupId>com.mycompany</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <artifactId>firstcup</artifactId>
+        <groupId>org.glassfish.javaeetutorial.firstcup</groupId>
+        <version>7.0.5</version>
     </parent>
 
     <groupId>com.mycompany</groupId>
