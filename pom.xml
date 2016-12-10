@@ -8,11 +8,13 @@
         <version>7.0.5</version>
     </parent>
 
+    <dependencies>
 	<dependency>
    		<groupId>org.glassfish.extras</groupId>
    		<artifactId>glassfish-embedded-all</artifactId>
    		<version>4.1.1</version>
 	</dependency>
+    </dependencies>
 
     <groupId>com.mycompany</groupId>
     <artifactId>firstcup-war</artifactId>
